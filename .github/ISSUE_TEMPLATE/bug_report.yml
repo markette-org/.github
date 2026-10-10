@@ -1,0 +1,31 @@
+name: Bug report
+description: Something does not work as it should
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Go to …\n2. Click …\n3. See error …"
+  - type: input
+    id: version
+    attributes:
+      label: Version or image tag
+      placeholder: e.g. ghcr.io/markette-org/markette-server:1.2.0
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options: [Publishing / scheduling, A specific network, Analytics, Web interface, Mobile app, MCP / API, Deployment, Other]
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Remove tokens, passwords and personal data first.

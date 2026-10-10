@@ -1,0 +1,19 @@
+name: New network or destination
+description: Ask for a new place Markette can publish to
+labels: [network]
+body:
+  - type: input
+    id: network
+    attributes:
+      label: Network or service
+    validations:
+      required: true
+  - type: textarea
+    id: api
+    attributes:
+      label: Official API
+      description: Link to the publishing API docs and any terms or approval requirements you know of.
+  - type: textarea
+    id: use
+    attributes:
+      label: How would you use it?
