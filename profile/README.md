@@ -43,6 +43,7 @@ read, audit, improve and fork.
 | [markette-server](https://github.com/markette-org/markette-server) | Django API, Celery scheduler and workers, network providers, MCP server |
 | [markette-web](https://github.com/markette-org/markette-web) | Angular web app |
 | [markette-mobile](https://github.com/markette-org/markette-mobile) | Android and iOS apps (Capacitor) with the share extension |
+| [markette-extension](https://github.com/markette-org/markette-extension) | Chrome extension: share pages, selections, links and images ([download](https://github.com/markette-org/markette-extension/releases/latest)) |
 
 ## Quick start
 
