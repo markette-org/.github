@@ -3,7 +3,8 @@
 <p align="center">
   <b>Open-source publishing for the social web.</b><br>
   Write once, tailor per network, schedule at the right moment, and see what worked.<br>
-  Self-hosted, multi-tenant, AGPL-3.0.
+  Self-hosted, multi-tenant, AGPL-3.0.<br>
+  <a href="https://markette.org">markette.org</a> · <a href="https://app.markette.org">app.markette.org</a>
 </p>
 
 ---
@@ -15,8 +16,8 @@ read, audit, improve and fork.
 
 ## What it does
 
-- **Publish everywhere from one place.** 21 destinations:
-  - **Social:** X, Threads, Bluesky, Mastodon, LinkedIn, Facebook, Instagram, YouTube.
+- **Publish everywhere from one place.** 22 destinations:
+  - **Social:** X, Threads, Bluesky, Mastodon, LinkedIn, Facebook, Instagram, YouTube, Reddit.
   - **Messaging:** Telegram, WhatsApp, WeChat, QQ, Discord.
   - **Sites and blogs:** WordPress, Drupal, Ghost, Medium, Hugo (git).
   - **Newsletters:** Brevo, Listmonk.
