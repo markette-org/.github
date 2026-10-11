@@ -19,7 +19,7 @@ read, audit, improve and fork.
 - **Publish everywhere from one place.** 22 destinations:
   - **Social:** X, Threads, Bluesky, Mastodon, LinkedIn, Facebook, Instagram, YouTube, Reddit.
   - **Messaging:** Telegram, WhatsApp, WeChat, QQ, Discord, Slack.
-  - **Sites and blogs:** WordPress, Drupal, Ghost, Medium, Hugo (git).
+  - **Sites and blogs:** WordPress, Drupal, Ghost, Medium, DEV (dev.to and other Forem communities), Hugo (git).
   - **Newsletters:** Brevo, Listmonk.
   - **Integrations:** a signed webhook for n8n, Make or your own code.
 - **Real scheduling.**
